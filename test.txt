@@ -1,0 +1,2 @@
+f2 = open('test.txt', 'w')
+f2 = open2('test.txt', 'w')
