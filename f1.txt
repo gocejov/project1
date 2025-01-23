@@ -6,3 +6,11 @@ ok-f2.txt
 ok-f2.txt   
 ok-f2.phps
 ko-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
+ok-f2.txt
